@@ -7,4 +7,5 @@
 <p>HTML-CSS-JS-REACT-REDUX-TAILWIND kullanıldı. </br> Responsive yapı kullanıldı</p>
 
 ![](/public/gif/screen-1.gif)
-# reactApp
+
+![](/public/gif/screen-2.gif)
